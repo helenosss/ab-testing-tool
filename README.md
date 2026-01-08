@@ -40,8 +40,7 @@ The project follows a real-world analytics workflow: raw events → statistical 
   - Metric change (%)
   - Z-statistic & p-value
   - Significance flag
-- [Interactive Tableau dashboard]
-(https://public.tableau.com/app/profile/olena.dziuba/viz/ABtest_17617430569810/ABtest) with:
+- [Interactive Tableau dashboard] (https://public.tableau.com/app/profile/olena.dziuba/viz/ABtest_17617430569810/ABtest) with:
   - Test selection
   - Segment filters
   - Conversion comparison
